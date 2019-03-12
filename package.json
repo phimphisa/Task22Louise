@@ -10,11 +10,11 @@
   "author": "Phimphisa Nokham",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "express": "^4.16.4",
-    "nodemon": "^1.18.10",
     "jquery": "^3.3.1",
-    "popper.js": "^1.14.7",
-    "bootstrap": "^4.3.1"
+    "nodemon": "^1.18.10",
+    "popper.js": "^1.14.7"
   },
   "devDependencies": {},
   "repository": {
